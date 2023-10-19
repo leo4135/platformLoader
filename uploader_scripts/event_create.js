@@ -21,7 +21,7 @@ import { Eventer } from '../models/login_fetcher.js'
 
 
 let createEvent = {
-        params: `{\"title\":\"Test\",\"titleEng\":null,\"cypher\":null,\"isPublished\":false,\"type\":4,\"eventFormat\":\"online\",\"isAvailable\":true,\"parent\":null,\"coordinates\":null,\"location\":\"192174, г. Санкт-Петербург, ул. Бабушкина, д. 119, литера А\",\"locationEng\":null,\"description\":\"<p>Мероприятие с целью повышения уровня осведомленности обучающихся ОО о направлениях подготовки в рамках ФП &quot;Профессионалитет&quot;</p>\",\"descriptionEng\":null}`
+        params: `{\"title\":\"Test2\",\"titleEng\":null,\"cypher\":null,\"isPublished\":false,\"type\":4,\"eventFormat\":\"online\",\"isAvailable\":true,\"parent\":null,\"coordinates\":null,\"location\":\"192174, г. Санкт-Петербург, ул. Бабушкина, д. 119, литера А\",\"locationEng\":null,\"description\":\"<p>Мероприятие с целью повышения уровня осведомленности обучающихся ОО о направлениях подготовки в рамках ФП &quot;Профессионалитет&quot;</p>\",\"descriptionEng\":null}`
 }
 
 
